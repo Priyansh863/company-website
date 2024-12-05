@@ -1,0 +1,41 @@
+[
+  {
+    "image": "/images/v3/s_1.png",
+    "title": "Web Development",
+    "icon": "/images/v2/icon3.png",
+    "description": "Creating responsive and innovative web solutions to enhance your digital presence.",
+    "link": "single-service"
+  },
+  {
+    "image": "/images/v3/s_2.png",
+
+    "title": "Mobile Development",
+    "icon": "/images/v2/icon4.png",
+    "link": "single-service",
+    "description": "High-performance mobile applications for iOS and Android."
+  },
+  {
+    "image": "/images/v3/s_3.png",
+
+    "title": "NFC Development",
+    "icon": "/images/v2/icon5.png",
+    "link": "single-service",
+    "description": "Specializing in NFC-based solutions for seamless and secure contactless experiences."
+  },
+  {
+    "image": "/images/v3/s_4.png",
+
+    "title": "AI Development",
+    "icon": "/images/v2/icon6.png",
+    "link": "single-service",
+    "description": "Harnessing the power of artificial intelligence to create smarter, data-driven solutions."
+  },
+  {
+    "image": "/images/v3/s_5.png",
+
+    "title": "Chat Bot Development",
+    "icon": "/images/v2/icon7.png",
+    "link": "single-service",
+    "description": "Developing conversational AI to automate interactions and enhance user engagement."
+  }
+]
